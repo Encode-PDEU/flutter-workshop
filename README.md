@@ -21,7 +21,8 @@
 2. Introduction to Flutter:
 - [First app](Flutter-tut/app_1/lib/main.dart)
 
-## [Installation Guide](InstallationGuide.md)
+## Installation Guide
+Checkout [InstallationGuide.md](InstallationGuide.md). The file contains a step by step guide along with links to youtube tutorials.
 
 ## Resources:
 - [Flutter Official Website](https://flutter.dev/)
