@@ -1,4 +1,4 @@
-# ![Flutter]("https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg") Workshop
+# ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter Workshop
 
 ### Speakers:
 - **[Nachiketa Vadedra](https://www.linkedin.com/in/nachiketa-vadera-656b74202/)**
