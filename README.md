@@ -1,7 +1,7 @@
 # ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter Workshop
 
 ## Speakers:
-- **[Nachiketa Vadedra](https://www.linkedin.com/in/nachiketa-vadera-656b74202/)**
+- **[Nachiketa Vadera](https://www.linkedin.com/in/nachiketa-vadera-656b74202/)**
 - **[Dhruv Sirodariya](https://www.linkedin.com/in/dhruv-sirodaria-4279731a1/)**
 
 ## Contents:
