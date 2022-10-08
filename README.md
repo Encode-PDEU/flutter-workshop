@@ -1,10 +1,10 @@
 # ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter Workshop
 
-### Speakers:
+## Speakers:
 - **[Nachiketa Vadedra](https://www.linkedin.com/in/nachiketa-vadera-656b74202/)**
 - **[Dhruv Sirodariya](https://www.linkedin.com/in/dhruv-sirodaria-4279731a1/)**
 
-### Contents:
+## Contents:
 1. Basic Dart Concepts: <br>
 - [First Program](Dart-Tuts/prog1.dart)
 - [Variables, Datatypes](Dart-Tuts/prog2.dart)
@@ -21,9 +21,9 @@
 2. Introduction to Flutter:
 - [First app](Flutter-tut/app_1/lib/main.dart)
 
-### [Installation Guide](InstallationGuide.md)
+## [Installation Guide](InstallationGuide.md)
 
-### Resources:
+## Resources:
 - [Flutter Official Website](https://flutter.dev/)
 - [Flutter Documentation](https://docs.flutter.dev/)
 - Installation:
