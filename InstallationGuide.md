@@ -36,7 +36,7 @@ Optional
 
 **Git**
 
-- Run the executable file probable with the name ```Git-2.38.0-64-bit.exe```.
+- Run the executable file probably with the name ```Git-2.38.0-64-bit.exe```.
 
 - Simply do next next install with all the default options.
 
@@ -48,14 +48,11 @@ Optional
 
 - To set the environment variable, navigate to the ```bin``` folder inside ```flutter``` folder and copy the full path. Example: D:/dev/flutter/bin
 
-- Now go to the ```properties of This PC``` and navigate to
-    ```    
-    Advance System Settings >> Environment Variables
-    ```
+- Now go to the ```properties of This PC``` and navigate to ```Advance System Settings >> Environment Variables```
 
 - There in the user variables or in the system variables edit the ```Path``` variable.
 
-- To edit the ```Path``` variable you can either double click the path or select the path and click the edit button given below.
+    - To edit the ```Path``` variable you can either double click the path or select the path and click the edit button given below.
 
 - In the edit prompt, click ```new``` and ```paste``` the path to bin folder, copied earlier.
 
@@ -120,34 +117,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 - If it was already checked then it wont download anything, otherwise it will first download the command-line tools.
 
-**Checking the installation**
-
-- Reopen command prompt and run:
-    ```
-    flutter doctor
-    ```
-
-- this time it should give the following output.
-```
-Doctor summary (to see all details, run flutter doctor -v):
-[√] Flutter (Channel stable, 3.3.4, on Microsoft Windows [version 10.0.22000.978), locale en-US)
-[!] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
-    ! Some Android licenses not accepted. To resolve this, run: flutter doctor --android-licenses
-[√] Chrome - develop for the web
-[X] Visual Studio - develop for Windows
-    X Visual Studio not installed; this is necessary for Windows development.
-      Download at https://visualstudio.microsoft.com/downloads/.
-      Please install the "Desktop development with C++" workload, including all of its default components
-[√] Android Studio (version 2021.2)
-[√] Connected device (2 available)
-[√] HTTP Host Availability
-
-! Doctor found issues in 2 categories.
-```
-
 **Accepting Android Licenses**
 
-- Run the following command. And when asked, input y to all prompts, to accept licenses.
+- Run the following command. And when asked, input ```y``` to all prompts, to accept licenses.
     ```
     flutter doctor --android-licenses
     ```
@@ -206,9 +178,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 • No issues found! 
 ```
 
-**If you are getting the above output, ```great job``` the installation is successful. Let me know if you are facing any problems**
+**If you are getting the above output, ```well done``` the installation is successful. Let me know if you are facing any problems**
 
-### You can also checkout these youtube installation guide
+### You can also checkout these youtube installation guide as well
 - [Windows](https://youtu.be/BqHOtlh3Dd4)
 - [MacOS](https://youtu.be/VPoqbBXzGtA)
 - [Linux](https://youtu.be/cuKRW23TR2o)
