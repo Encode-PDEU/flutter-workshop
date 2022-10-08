@@ -2,7 +2,7 @@
 
 ## Speakers:
 - **[Nachiketa Vadera](https://www.linkedin.com/in/nachiketa-vadera-656b74202/)**
-- **[Dhruv Sirodariya](https://www.linkedin.com/in/dhruv-sirodaria-4279731a1/)**
+- **[Dhruv Sirodaria](https://www.linkedin.com/in/dhruv-sirodaria-4279731a1/)**
 
 ## Contents:
 1. Basic Dart Concepts: <br>
